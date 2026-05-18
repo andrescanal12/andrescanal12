@@ -31,9 +31,10 @@ He enfocado mi carrera en la **fiabilidad (SRE)** y la **eficiencia operativa (F
 
 ### 📊 Actividad en GitHub
 
-[![Andres Stats](https://github-readme-stats.vercel.app/api?username=andrescanal12&show_icons=true&theme=nord&hide_border=true&count_private=true)](https://github.com/andrescanal12)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrescanal12&layout=compact&theme=nord&hide_border=true)](https://github.com/andrescanal12)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrescanal12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Andres Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescanal12&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="195" />
+</p>
 ---
 
 <p align="center">
