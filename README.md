@@ -23,14 +23,6 @@ He enfocado mi carrera en la **fiabilidad (SRE)** y la **eficiencia operativa (F
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrescanal12&show_icons=true&theme=nord&hide_border=true" alt="Andres Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescanal12&layout=compact&theme=nord&hide_border=true" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 📫 Contacto & Negocios
 * **LinkedIn:** [linkedin.com/in/andrescanal](https://linkedin.com/in/andrescanal)
 * **Business:** [themanagerai.es](https://www.themanagerai.es/)
