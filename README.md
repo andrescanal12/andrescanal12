@@ -1,6 +1,11 @@
-# Andrés Canal | Cloud & DevOps Architect ☁️ 
+# ☁️ Andrés Canal | Cloud & DevOps Architect
 
-He enfocado mi carrera en la **fiabilidad (SRE)** y la **eficiencia operativa (FinOps)**. Mi trabajo consiste en diseñar infraestructuras en Azure que sean escalables, seguras y económicamente optimizadas mediante el uso de IA y automatización.
+<p align="left">
+<a href="https://linkedin.com/in/andrescanal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://themanagerai.es/" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+He enfocado mi carrera en la **fiabilidad (SRE)** y la **eficiencia operativa (FinOps)**. Mi trabajo consiste en diseñar infraestructuras en Azure que sean escalables, seguras y económicamente optimizadas mediante el uso de **IA y automatización**.
 
 ---
 
@@ -8,21 +13,32 @@ He enfocado mi carrera en la **fiabilidad (SRE)** y la **eficiencia operativa (F
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Cloud Infrastructure** | Azure (Solutions Architect), Hybrid Networking, Cloud Governance |
-| **IaC & Automation** | Terraform, Bicep, Python, PowerShell, Bash |
-| **SRE & Observability** | Prometheus, Grafana, Alerting Strategies, SLIs/SLOs |
-| **AI for DevOps** | LLMs for Scripting, Gemini API Integration, Automation Workflows |
+| **Cloud Infrastructure** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) |
+| **IaC & Automation** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Containers** | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| **AI & Dev** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) |
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-* **[Azure FinOps Audit](https://github.com/andrescanal12/azure-finops-audit](https://github.com/andrescanal12/my-monthly-finance):** Scripts avanzados para detectar fugas de costes (proyectando ahorros de >30k€ anuales).
-* **[AI DevOps Automation](https://github.com/andrescanal12/ai-devops-automation](https://github.com/andrescanal12/taxi-truck-fleet-manager):** Integración de IA para documentación técnica y troubleshooting.
-* **[Riders Classics Cars](https://github.com/andrescanal12/riders-classics-collection-web](https://github.com/andrescanal12/my-monthly-finance):** Consultoría digital completa y arquitectura web.
+* 🔹 **[Kubernetes Cluster Setup](https://github.com/andrescanal12/my-monthly-finance):** Automatización de clusters K8s productivos.
+* 🔹 **[Azure Infra Audit](https://github.com/andrescanal12/taxi-truck-fleet-manager):** FinOps & Auditoría para optimización de costes.
+* 🔹 **[OpenAI API Worker](https://github.com/andrescanal12/inmo-carbonell-dashboard):** Integración de IA en flujos de trabajo de ingeniería.
+* 🔹 **[Terraform Azure Network](https://github.com/andrescanal12/terraform-azure-network):** Arquitectura de red escalable como código.
 
 ---
 
-### 📫 Contacto & Negocios
-* **LinkedIn:** [linkedin.com/in/andrescanal](https://linkedin.com/in/andrescanal)
-* **Business:** [themanagerai.es](https://www.themanagerai.es/)
+### 📊 Actividad en GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrescanal12&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" alt="Andres Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescanal12&layout=compact&theme=nord&hide_border=true" alt="Top Langs" height="170" />
+</p>
+
+---
+
+<p align="center">
+  <b>📍 Petrer, Alicante, Spain</b><br>
+  <i>"Automating the future, one commit at a time."</i>
+</p>
