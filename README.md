@@ -1,4 +1,4 @@
-# ☁️ Andrés Canal | Cloud & DevOps Architect
+# Andrés Canal | Cloud & DevOps Architect ☁️ 
 
 He enfocado mi carrera en la **fiabilidad (SRE)** y la **eficiencia operativa (FinOps)**. Mi trabajo consiste en diseñar infraestructuras en Azure que sean escalables, seguras y económicamente optimizadas mediante el uso de IA y automatización.
 
