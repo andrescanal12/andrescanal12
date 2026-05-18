@@ -1,4 +1,4 @@
-# Andrés Canal | Cloud & DevOps Architect ☁️ 
+# ☁️ Andrés Canal | Cloud & DevOps Architect  
 
 <p align="left">
 <a href="https://linkedin.com/in/andrescanal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -29,12 +29,12 @@ He enfocado mi carrera en la **fiabilidad (SRE)** y la **eficiencia operativa (F
 
 ---
 
-### 📊 Actividad en GitHub
-
-<h3 align="left">Estadísticas de GitHub:</h3>
+<h3 align="left">⚙️ Mi Enfoque Técnico:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrescanal12&theme=radical&show_icons=true&hide_border=true" alt="Andres Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrescanal12&theme=radical&layout=compact&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/FinOps-Optimización_de_Costes-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SRE-Fiabilidad_y_Escalabilidad-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IaC-Infraestructura_Inmutable-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_DevOps-Automatización_Inteligente-purple?style=for-the-badge" />
 </p>
 
 ---
