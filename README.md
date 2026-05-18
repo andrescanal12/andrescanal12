@@ -33,4 +33,4 @@ He enfocado mi carrera en la **fiabilidad (SRE)** y la **eficiencia operativa (F
 
 ### 📫 Contacto & Negocios
 * **LinkedIn:** [linkedin.com/in/andrescanal](https://linkedin.com/in/andrescanal)
-* **Business:** [themanger.ai](https://themanger.ai)
+* **Business:** [themanagerai.es](https://www.themanagerai.es/)
