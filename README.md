@@ -1,7 +1,7 @@
 # ☁️ Andrés Canal | Cloud & DevOps Architect  
 
 <p align="left">
-<a href="https://linkedin.com/in/andrescanal" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/andres-canal-049ab0226/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://themanagerai.es/" target="blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
