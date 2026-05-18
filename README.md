@@ -17,9 +17,9 @@ He enfocado mi carrera en la **fiabilidad (SRE)** y la **eficiencia operativa (F
 
 ### 🚀 Proyectos Destacados
 
-* **[Azure FinOps Audit]([https://github.com/andrescanal12/azure-finops-audit](https://github.com/andrescanal12/my-monthly-finance)):** Scripts avanzados para detectar fugas de costes (proyectando ahorros de >30k€ anuales).
-* **[AI DevOps Automation]([https://github.com/andrescanal12/ai-devops-automation](https://github.com/andrescanal12/taxi-truck-fleet-manager)):** Integración de IA para documentación técnica y troubleshooting.
-* **[Riders Classics Cars]([https://github.com/andrescanal12/riders-classics-collection-web](https://github.com/andrescanal12/my-monthly-finance)):** Consultoría digital completa y arquitectura web.
+* **[Azure FinOps Audit]([https://github.com/andrescanal12/azure-finops-audit](https://github.com/andrescanal12/my-monthly-finance):** Scripts avanzados para detectar fugas de costes (proyectando ahorros de >30k€ anuales).
+* **[AI DevOps Automation]([https://github.com/andrescanal12/ai-devops-automation](https://github.com/andrescanal12/taxi-truck-fleet-manager):** Integración de IA para documentación técnica y troubleshooting.
+* **[Riders Classics Cars]([https://github.com/andrescanal12/riders-classics-collection-web](https://github.com/andrescanal12/my-monthly-finance):** Consultoría digital completa y arquitectura web.
 
 ---
 
